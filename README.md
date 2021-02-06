@@ -2,8 +2,8 @@
 Lighthouse Labs Midterm Project
 
 ## Call Schedule:
-February 5, 2021, Afternoon - Initial Team Meeting, set schedule
-February 5, 2021, Evening - Progress Check Ins 
+- February 5, 2021, Afternoon - Initial Team Meeting, set schedule
+- February 5, 2021, Evening - Progress Check Ins 
 
 ## Timeline:
 Friday - 
