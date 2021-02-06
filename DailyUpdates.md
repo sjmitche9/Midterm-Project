@@ -1,14 +1,17 @@
-## Updates: 
-Feb 5, 2021
-50,000 rows in google colab feasible
+## Updates Feb 5, 2021:
 
-James pulled 10,000 on his computer
+Lessons:
+- 50,000 rows in google colab feasible
+- James pulled 10,000 on his computer
+- Steve pulled two full columns, data and arr_del - 15 million 
+- Just january is about 1.2 million
 
-Steve pulled two full columns, data and arr_del - 15 million 
-Just january 1.2 million
-
+To Do Next:
 1) Everyone review EDA notebook: 
 2) Proof of Concept with Jan Data or consider Dec Data
+
+
+Team members currently working on: 
 
 Erika drop those useless features, columns with 40% null values, run correlation on the rest, drop half of each pair. Two inquiries in colab. 
 Wondering if we could PCA to condense all features, 
