@@ -1,4 +1,5 @@
 ## Updates: 
+Feb 5, 2021
 50,000 rows in google colab feasible
 
 James pulled 10,000 on his computer
