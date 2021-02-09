@@ -5,6 +5,9 @@ Lighthouse Labs Midterm Project
 - February 5, 2021, Afternoon - Initial Team Meeting, set schedule
 - February 5, 2021, Evening - Progress Check Ins
 - February 6, 2021 at 10:30 PST
+- February 7, 2021 Independant Study
+- February 8, 2021 Meet in discord
+- February 9, 2021 Meet in discord
 - **SCHEDULED** Meet in discord
 
 ## Timeline:
@@ -38,4 +41,4 @@ Thursday - <br>
     - Dress rehearsal with another team 
     
 Friday - <br>
-    - Presentations 
+    - Our presentation is booked for 11am. 
