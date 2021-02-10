@@ -13,3 +13,6 @@ GridSearch with few params revealed:
 - Without weather feature = Accuracy : 0.7332735196103564
 
 - Weather made it slightly worse
+
+## Logistic Regression Model with Chicago Weather, penalty = l2, max_iter = 1000
+- With weather Accuracy: 0.6212341807593236
