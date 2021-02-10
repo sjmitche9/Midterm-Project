@@ -16,3 +16,8 @@ GridSearch with few params revealed:
 
 ## Logistic Regression Model with Chicago Weather, penalty = l2, max_iter = 1000
 - With weather Accuracy: 0.6212341807593236
+- Without weather feature: 0.6114906484488745
+
+## Random Forest with Chicago Weather
+- With Weather Accuracy : 0.7215813640945234
+- Without Weather Accuracy : 0.7111658640385261
