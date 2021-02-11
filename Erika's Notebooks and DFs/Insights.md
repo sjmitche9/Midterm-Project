@@ -20,6 +20,6 @@ GridSearch with few params revealed:
 - With Weather Accuracy : 0.7215813640945234
 - Without Weather Accuracy : 0.7111658640385261
 
-## KNN with baseline DF (minus, fl_date, taxi_in, taxi_out)
+## KNN with baseline DF (minus, fl_date, taxi_in, taxi_out) n_neighbors=3
 - With smote, no scaling Accuracy : 0.7106768030139935
 - With smote, with scaling Accuracy : 0.754978471474704
