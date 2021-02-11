@@ -23,3 +23,8 @@ GridSearch with few params revealed:
 ## KNN with baseline DF (minus, fl_date, taxi_in, taxi_out) n_neighbors=3
 - With smote, no scaling Accuracy : 0.7106768030139935
 - With smote, with scaling Accuracy : 0.754978471474704
+
+## KNN with baseline DF (minus, fl_date, taxi_in, taxi_out) n_neighbors=1
+- With Smote, with scaling Accuracy : 0.7956808396124866
+
+## KNN n_neighbors = 15 is the worst 
