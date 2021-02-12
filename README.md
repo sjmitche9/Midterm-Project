@@ -8,6 +8,7 @@ Lighthouse Labs Midterm Project
 - February 7, 2021 Independant Study
 - February 8, 2021 Meet in discord
 - February 9, 2021 Meet in discord
+- February 10, 11, 12 Meet in discord
 - **SCHEDULED** Meet in discord
 
 ## Timeline:
