@@ -1,3 +1,6 @@
+# To LHL Staff re: Submission.csv
+**Our model is based on FAA regulations that state that a plane is not late until it is 15 minutes past it's scheduled arrival time. Thank you!** 
+
 # Midterm-Project
 Lighthouse Labs Midterm Project
 
